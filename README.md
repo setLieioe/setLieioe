@@ -1,4 +1,18 @@
-## Hi there 👋
+
+# Hi there 👋, I’m Mohammad Omor Faruk
+
+**Junior Full-Stack / Backend Developer** | Remote-Friendly | Bogra, Bangladesh
+
+💻 [GitHub](https://github.com/mdomorffaruk) • 🌐 [Portfolio](https://mdomorffaruk.github.io) • 📫 [mdomorffaruk@gmail.com](mailto:mdomorffaruk@gmail.com)
+
+---
+
+### What I Do
+
+I build **web & mobile systems** that actually work in production.
+Reliable, independent, and focused on delivering results.
+
+---
 
 <!--
 **setLieioe/setLieioe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
